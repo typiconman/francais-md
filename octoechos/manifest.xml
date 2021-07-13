@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="6099f2e4-1091-4a1e-b71b-6b5d64f90d81"/>
+		<meta name="lang" content="fr"/>
+		<meta name="title" content="Octoèque"/>
+		<meta name="latin" content="OctoechosFrench"/>
+		<meta name="publisher" content="IIe édition, Diaconie apostolique"/>
+		<meta name="year" content="1995"/>
+		<meta name="note" content="Traduction : Père Denis Guillaume"/>
+	</head>
+	<manifest>
+		<chapter file="introduction" name="Introduction"/>
+		<chapter file="ton1" name="Tone 1"/>
+		<chapter file="ton2" name="Tone 2"/>
+		<chapter file="ton3" name="Tone 3"/>
+		<chapter file="ton4" name="Tone 4"/>
+		<chapter file="ton5" name="Tone 5"/>
+		<chapter file="ton6" name="Tone 6"/>
+		<chapter file="ton7" name="Tone 7"/>
+		<chapter file="ton8" name="Tone 8"/>
+		<chapter file="annexes" name="Annexes"/>
+	</manifest>
+</bookdata>
