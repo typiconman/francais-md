@@ -2650,25 +2650,25 @@ Grande, Seigneur, est la puissance de ta Croix: / une fois plantée sur le Calva
 
 Grande est la puissance des Martyrs: / gisant dans les tombeaux, ils chassent les esprits du mal; / ils ont renversé le pouvoir de l’Ennemi / en combattant pour la foi en la sainte Trinité.
 
-Les Prophètes, les Apôtres du Christ et les Martyrs / nous ont appris à chanter la consubstantielle Trinité, : ils ont porté la lumière aux nations égarées: / les Anges et les Hommes sont devenus concitoyens.
+Les Prophètes, les Apôtres du Christ et les Martyrs / nous ont appris à chanter la consubstantielle Trinité, : ils ont porté la lumière aux nations égarées: / les Anges et les Hommes sont devenus concitoyens [^1]
 
-*À la place de ces trois martyrika, que nous empruntons au Paraclitique slave, le grec nous offre les théotokia suivants:*
+[^1]: *À la place de ces trois martyrika, que nous empruntons au Paraclitique slave, le grec nous offre les théotokia suivants:*
 
-Sous le souffle de l’Ennemi / sans cesse comme un chaume je suis agité; / ô Vierge, prends pitié de ton serviteur / et ne permets pas que je sois ébranlé jusqu’à la fin par l’ouragan du Mauvais, / mais affermis mon cœur en la foi du Rédempteur.
+    Sous le souffle de l’Ennemi / sans cesse comme un chaume je suis agité; / ô Vierge, prends pitié de ton serviteur / et ne permets pas que je sois ébranlé jusqu’à la fin par l’ouragan du Mauvais, / mais affermis mon cœur en la foi du Rédempteur.
 
-Le tumulte des passions m’enserre à m’étouffer / et sans cesse trouble mon âme désolée, / il me pousse dans le gouffre du désespoir, / mais toi, ô Vierge immaculée, / change ma tempête en un calme profond.
+    Le tumulte des passions m’enserre à m’étouffer / et sans cesse trouble mon âme désolée, / il me pousse dans le gouffre du désespoir, / mais toi, ô Vierge immaculée, / change ma tempête en un calme profond.
 
-Ô Vierge, implore le Fils né de toi / pour qu’il sauvegarde ton troupeau / de toute embûche du Diable, notre ennemi;/ et donne-moi le pouvoir / d’accomplir l’ensemble des préceptes de mon Dieu.
+    Ô Vierge, implore le Fils né de toi / pour qu’il sauvegarde ton troupeau / de toute embûche du Diable, notre ennemi;/ et donne-moi le pouvoir / d’accomplir l’ensemble des préceptes de mon Dieu.
 
-*Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant:*
+    *Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant:*
 
-Grande est la puissance des Martyrs: / …
+    Grande est la puissance des Martyrs: / ...
 
-Les Prophètes, les Apôtres du Christ et les Martyrs …
+    Les Prophètes, les Apôtres du Christ et les Martyrs ...
 
-Tes Martyrs, Seigneur, soutenus par la foi ...
+    Tes Martyrs, Seigneur, soutenus par la foi ...
 
-Toute œuvre humaine est vanité / quand ...
+    Toute œuvre humaine est vanité / quand ...
 
 Gloire au Père ... Maintenant ...
 

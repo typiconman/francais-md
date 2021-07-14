@@ -2648,31 +2648,31 @@ Martyrika
 
 Vivantes hosties, / holocaustes spirituels, / saints Martyrs, victimes agréables au Seigneur notre Dieu, / brebis connaissant leur divin Maître et connues de lui, / et dont le bercail ne s’ouvre pas pour les loups ravisseurs, / intercédez auprès du bon Pasteur / pour qu’avec vous il nous mène aussi vers le lieu du repos.
 
-Elle est précieuse, Seigneur, la mort de tes amis: / par le glaive, la flamme ou le gel / ils donnèrent leur vie dans l’espérance d’obtenir / la récompense de leurs travaux/ et leur patience leur a valu / auprès de toi, Sauveur, la grande miséricorde.
+Elle est précieuse, Seigneur, la mort de tes amis: / par le glaive, la flamme ou le gel / ils donnèrent leur vie dans l’espérance d’obtenir / la récompense de leurs travaux/ et leur patience leur a valu / auprès de toi, Sauveur, la grande miséricorde.[^1]
+
+[^1]: *À la place de ces trois martyrika que nous empruntons au Paraclitique slave le grec nous offre les théotokia suivants:*
+
+    Ô notre Dame délivre-moi / des pensées honteux et grossiers / qui souillent tous les sens de mon âme et de mon corps; / aussi Vierge pure, je te prie / et je clame en mon repentir: / Avant ma perte définitive, ô notre Dame, sauve-moi.
+
+    Hélas, que vais-je faire ou devenir, / ayant dès ma jeunesse servi les passions? pourrais-je en la vieillesse montrer au Christ ? les fruits du repentir? / déjà la seule habitude m’égare avant que d’être égaré: / avant ma perte définitive, ô notre Dame sauve-moi.
+
+    Fais-moi le don des larmes, ô Mère de Dieu, / donne à mon cœur la contrition, / accorde-moi la confession des fautes de ma vie, / afin que grâce à ton secours / je passe le reste de mes jours dans le repentir / et puisse obtenir le pardon.
+
+    *Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant :*
+
+    Seigneur ami des hommes / qui as agréé ...
+
+    Par le crédit que vous avez auprès du Sauveur ...
+
+    Vivantes hosties, / holocaustes spirituels ...
+
+    Avec les esprits des Justes / parvenus ...
 
 Par le crédit que vous avez auprès du Sauveur, / saints Martyrs, intercédez sans cesse pour nous pécheurs, / demandant le pardon de nos péchés / et pour nos âmes la grande miséricorde.
 
-*À la place de ces trois martyrika que nous empruntons au Paraclitique slave le grec nous offre les théotokia suivants:*
-
-Ô notre Dame délivre-moi / des pensées honteux et grossiers / qui souillent tous les sens de mon âme et de mon corps; / aussi Vierge pure, je te prie / et je clame en mon repentir: / Avant ma perte définitive, ô notre Dame, sauve-moi.
-
-Hélas, que vais-je faire ou devenir, / ayant dès ma jeunesse servi les passions? pourrais-je en la vieillesse montrer au Christ ? les fruits du repentir? / déjà la seule habitude m’égare avant que d’être égaré: / avant ma perte définitive, ô notre Dame sauve-moi.
-
-Fais-moi le don des larmes, ô Mère de Dieu, / donne à mon cœur la contrition, / accorde-moi la confession des fautes de ma vie, / afin que grâce à ton secours / je passe le reste de mes jours dans le repentir / et puisse obtenir le pardon.
-
-*Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant :*
-
-Seigneur ami des hommes / qui as agréé …
-
-Par le crédit que vous avez auprès du Sauveur …
-
-Vivantes hosties, / holocaustes spirituels …
-
-Avec les esprits des Justes / parvenus …
-
 Gloire au Père ... Maintenant ...
 
-L’ancêtre de Dieu le prophète David, / parlant de toi et s’adressant à Celui / qui fit pour toi des merveilles, / a chanté mélodieusement: / ‘À ta droite se tient la Reine‘ / Car il fit de toi la mère qui nous donne la Vie, / le Christ notre Dieu, / qui a voulu virginalement s’incarner en toi, / afin de restaurer sa propre image / corrompue par le péché / et de prendre sur ses épaules / la brebis perdue retrouvée sur la montagne / pour la ramener vers le Père / et selon sa volonté la réunir aux puissances des cieux / pour sauver le monde, ô Mère de Dieu, / en lui accordant en abondance la grande miséricorde.
+L’ancêtre de Dieu le prophète David, / parlant de toi et s’adressant à Celui / qui fit pour toi des merveilles, / a chanté mélodieusement: / ‘À ta droite se tient la Reine ‘ / Car il fit de toi la mère qui nous donne la Vie, / le Christ notre Dieu, / qui a voulu virginalement s’incarner en toi, / afin de restaurer sa propre image / corrompue par le péché / et de prendre sur ses épaules / la brebis perdue retrouvée sur la montagne / pour la ramener vers le Père / et selon sa volonté la réunir aux puissances des cieux / pour sauver le monde, ô Mère de Dieu, / en lui accordant en abondance la grande miséricorde.
 
 **Apostiches**
 

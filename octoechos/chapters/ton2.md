@@ -2620,25 +2620,25 @@ N’ayant point désiré les jouissances d’ici-bas, / les saints Martyrs ont o
 
 Les saints Martyrs intercèdent pur nous / et de leurs hymnes célèbrent le Christ: / dès lors cesse tout égarement / et le genre humain est sauvé par a foi.
 
-En chœur, les saints Martyrs / résistèrent aux tyrans / disant: Nous militons / pour le Roi des puissances d’en-haut; / vous aurez beau nous faire subir des tourments et le feu / nous ne renierons pas la puissance de la Trinité
+En chœur, les saints Martyrs / résistèrent aux tyrans / disant: Nous militons / pour le Roi des puissances d’en-haut; / vous aurez beau nous faire subir des tourments et le feu / nous ne renierons pas la puissance de la Trinité [^1]
 
-*À la place de ces trois martyrika que nous empruntons au Paraclitique slave le grec nous offre les théotokia suivants:*
+[^1]: À la place de ces trois martyrika que nous empruntons au Paraclitique slave le grec nous offre les théotokia suivants:
 
-Dès ma jeunesse, toute entier / je fus l’esclave de honteuses passions / et j’ai fini par effacer / en ma débauche effrénée / l’image et ressemblance de Dieu / et je redoute la sentence à venir, / Vierge toute-digne de nos chants, / lorsque je paraîtrai devant ton Fils et ton Dieu ; / aussi avant la fin accorde-moi, / Vierge pure, la purification de mes passions / et de mes fautes la rédemption.
+    Dès ma jeunesse, toute entier / je fus l’esclave de honteuses passions / et j’ai fini par effacer / en ma débauche effrénée / l’image et ressemblance de Dieu / et je redoute la sentence à venir, / Vierge toute-digne de nos chants, / lorsque je paraîtrai devant ton Fils et ton Dieu ; / aussi avant la fin accorde-moi, / Vierge pure, la purification de mes passions / et de mes fautes la rédemption.
 
-Vierge pure, je redoute le tribunal, / le châtiment éternel par le feu, / l’inexorable malédiction, / le grincement de dents, / la férocité du ver qui ronge sans répit ; / c’est pourquoi, dans la détresse de mon cœur, / Vierge tout-immaculée, je te prie : / sauve-moi de la terrible condamnation.
+    Vierge pure, je redoute le tribunal, / le châtiment éternel par le feu, / l’inexorable malédiction, / le grincement de dents, / la férocité du ver qui ronge sans répit ; / c’est pourquoi, dans la détresse de mon cœur, / Vierge tout-immaculée, je te prie : / sauve-moi de la terrible condamnation.
 
-Lorsque des membres de mon corps / mon âme sera par force séparée, / divine Épouse, sois présente à mes côtés, / dissipe les complots des ennemis incorporels, / broye les dents de ceux qui cherchent à m’avaler, / afin que sans encombre je passe au travers / des princes des ténèbres qui se trouvent dans les airs.
+    Lorsque des membres de mon corps / mon âme sera par force séparée, / divine Épouse, sois présente à mes côtés, / dissipe les complots des ennemis incorporels, / broye les dents de ceux qui cherchent à m’avaler, / afin que sans encombre je passe au travers / des princes des ténèbres qui se trouvent dans les airs.
 
-Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant :
+    Quant aux Apostiches, l’ordre du Paraclitique grec est le suivant :
 
-Les saints Martyrs intercèdent pour nous / ...
+    Les saints Martyrs intercèdent pour nous / ...
 
-En chœur, les saints Martyrs / résistèrent ...
+    En chœur, les saints Martyrs / résistèrent ...
 
-Grande gloire vous fut acquise par la foi: / ...
+    Grande gloire vous fut acquise par la foi: / ...
 
-Comme un rêve ou comme une fleur / ...
+    Comme un rêve ou comme une fleur\) / ...
 
 Gloire au Père ... Maintenant ...
 
