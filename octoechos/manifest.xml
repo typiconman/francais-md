@@ -12,14 +12,14 @@
 	</head>
 	<manifest>
 		<chapter file="introduction" name="Introduction"/>
-		<chapter file="ton1" name="Tone 1"/>
-		<chapter file="ton2" name="Tone 2"/>
-		<chapter file="ton3" name="Tone 3"/>
-		<chapter file="ton4" name="Tone 4"/>
-		<chapter file="ton5" name="Tone 5"/>
-		<chapter file="ton6" name="Tone 6"/>
-		<chapter file="ton7" name="Tone 7"/>
-		<chapter file="ton8" name="Tone 8"/>
+		<chapter file="ton1" name="Ton 1"/>
+		<chapter file="ton2" name="Ton 2"/>
+		<chapter file="ton3" name="Ton 3"/>
+		<chapter file="ton4" name="Ton 4"/>
+		<chapter file="ton5" name="Ton 5"/>
+		<chapter file="ton6" name="Ton 6"/>
+		<chapter file="ton7" name="Ton 7"/>
+		<chapter file="ton8" name="Ton 8"/>
 		<chapter file="annexes" name="Annexes"/>
 	</manifest>
 </bookdata>
