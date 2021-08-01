@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="7419b76a-4ffe-48f9-88d0-6f1573f18334"/>
+		<meta name="lang" content="fr"/>
+		<meta name="title" content="Ménée de juillet"/>
+		<meta name="latin" content="menaionJuillet"/>
+		<meta name="publisher" content="Diaconie apostolique"/>
+		<meta name="year" content="1987"/>
+		<meta name="note" content="Traduction : Père Denis Guillaume, numérisation : Tatiana Ciolkovitch"/>
+	</head>
+	<manifest>
+        <chapter file="01" name="1er juillet. Mémoire des saints thaumaturges anargyres Cosme et Damien"/>
+        <chapter file="02" name="2 juillet. Mémoire de la Déposition aux Blachernes du précieux vêtement de la Mère de Dieu"/>
+        <chapter file="03" name="3 juillet. Mémoire du saint martyr Hyacinthe"/>
+        <chapter file="04" name="4 juillet. Mémoire de notre Père dans les Saints André le hiérosolymitain, archevêque de Crète"/>
+        <chapter file="05" name="5 juillet. Mémoire de notre vénérable Père Athanase l'Athonite ; et de notre vénérable Père Lampade le thaumaturge"/>
+        <chapter file="06" name="6 juillet. Mémoire de notre vénérable Père Sisoès le Grand"/>
+        <chapter file="07" name="7 juillet. Mémoire de notre vénérable Père Thomas du mont Malée ; et de la sainte mégalomartyre Cyriaque \(Dominique\)"/>
+        <chapter file="08" name="8 juillet. Mémoire du saint et illustre mégalomartyr Procope"/>
+        <chapter file="09" name="9 juillet. Mémoire du saint hiéromartyr Pancrace, évêque de Taormine"/>
+        <chapter file="10" name="10 juillet. Mémoire des quarante-cinq Martyrs de Nicopolis en Arménie"/>
+        <chapter file="11" name="11 juillet. Mémoire de la sainte et illustre mégalomartyre Euphémie"/>
+        <chapter file="12" name="12 juillet. Mémoire des saints martyrs Proclus et Hilaire"/>
+        <chapter file="13" name="13 juillet. Synaxe du saint archange Gabriel ; et mémoire de notre vénérable Père Étienne le thaumaturge, moine sabbaïte"/>
+        <chapter file="14" name="Entre le 13 et le 19 juillet. DIMANCHE DES SAINTS PÈRES des six premiers conciles œcuméniques"/>
+        <chapter file="15" name="14 juillet. Mémoire du saint apôtre Aquilas, un des Soixante-dix"/>
+        <chapter file="16" name="15 juillet. Mémoire des saints martyrs Ciryque \(ou Cyr\) et Julitte"/>
+        <chapter file="17" name="16 juillet. Mémoire du saint martyr Athénogène et de ses dix disciples"/>
+        <chapter file="18" name="17 juillet. Mémoire de la sainte mégalomartyre Marine"/>
+        <chapter file="19" name="18 juillet. Mémoire du saint martyr Émilien"/>
+        <chapter file="20" name="19 juillet. Mémoire de notre vénérable Mère Macrine, sœur de Basile le Grand ; et de notre vénérable Père Die. Et invention des reliques de notre vénérable Père Séraphim de Sarov"/>
+        <chapter file="21" name="Office de notre vénérable Père Séraphim de Sarov."/>
+        <chapter file="22" name="20 juillet. Mémoire du saint et glorieux prophète Élie le Thesbite"/>
+        <chapter file="23" name="21 juillet. Mémoire de nos vénérables Pères Jean et Siméon le fol en Christ"/>
+        <chapter file="24" name="22 juillet. Mémoire de la sainte myrophore égale-aux-Apôtres Marie Madeleine"/>
+        <chapter file="25" name="23 juillet. Translation des reliques du saint hiéromartyr Phocas"/>
+        <chapter file="26" name="24 juillet. Mémoire de la sainte mégalomartyre Christine"/>
+        <chapter file="27" name="25 juillet. Dormition de sainte Anne, l'aïeule du Seigneur"/>
+        <chapter file="28" name="26 juillet. Mémoire du saint hiéromartyr Hermolaüs et de ses compagnons ; et de la sainte hosiomartyre Parascève"/>
+        <chapter file="29" name="27 juillet. Mémoire du saint mégalomartyr et guérisseur Pantéléïmon"/>
+        <chapter file="30" name="28 juillet. Mémoire des saints apôtres et diacres Prochore, Nicanor, Timon et Parménas"/>
+        <chapter file="31" name="29 juillet. Mémoire du saint martyr Callinique ; et de la sainte martyre Théodote"/>
+        <chapter file="32" name="30 juillet. Mémoire des saints apôtres Silas, Silvain, Crescent, Épénète et Andronique, du nombre des Soixante-dix"/>
+        <chapter file="33" name="31 juillet. Avant-fête de la Procession de la Croix ; et mémoire du saint et juste Eudocime"/>
+        <chapter file="34" name="THEOTOKIÀ DOMINICAUX DES HUIT TONS"/>
+        <chapter file="35" name="THEOTOKIÀ APOLYTIKIÀ DES DIMANCHES"/>
+        <chapter file="36" name="THEOTOKIÀ APOLYTIKIÀ à chanter toute l'année après les tropaires des Saints."/>
+	</manifest>
+</bookdata>
