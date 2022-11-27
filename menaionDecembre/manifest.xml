@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="3d3bcdbf-2dd9-46b5-9fcd-96cf3b1d4c62"/>
+		<meta name="lang" content="fr"/>
+		<meta name="title" content="Ménée de decémbre"/>
+		<meta name="latin" content="menaionDecembre"/>
+		<meta name="publisher" content="Diaconie apostolique"/>
+		<meta name="year" content="1980"/>
+		<meta name="note" content="Traduction : Père Denis Guillaume, numérisation : Tatiana Ciolkovitch"/>
+	</head>
+	<manifest>
+        <chapter file="01" name="1er décembre Mémoire du saint prophète Nahum"/>
+        <chapter file="02" name="2 décembre Mémoire du saint prophète Habacuc"/>
+        <chapter file="03" name="3 décembre Mémoire du saint prophète Sophonie"/>
+        <chapter file="04" name="4 décembre Mémoire de la sainte mégalomartyre Barbara ;"/>
+        <chapter file="05" name="5 décembre Mémoire de notre vénérable Père Sabbas le Sanctifié"/>
+        <chapter file="06" name="6 décembre Mémoire de notre Père dans les Saints Nicolas,"/>
+        <chapter file="07" name="7 décembre Mémoire de notre Père dans les Saints Ambroise, évêque de Milan"/>
+        <chapter file="08" name="8 décembre Avant-fête de la Conception d'Anne, l'aïeule du Seigneur ;"/>
+        <chapter file="09" name="9 décembre Conception de sainte Anne, mère de la Théotokos ;"/>
+        <chapter file="10" name="10 décembre Mémoire des saints martyrs Ménas, Hermogène et Eugraphe"/>
+        <chapter file="11" name="Entre le 11 et le 17 Décembre. Dimanche des Saints Ancêtres."/>
+        <chapter file="12" name="11 décembre Mémoire de notre vénérable Père Daniel le Stylite"/>
+        <chapter file="13" name="12 décembre Mémoire de notre vénérable Père Spyridon le Thaumaturge,"/>
+        <chapter file="14" name="13 décembre Mémoire des saints martyrs Eustrate, Auxence, Eugène, Mardarios et Oreste ; et de la sainte martyre et vierge Lucie"/>
+        <chapter file="15" name="14 décembre Mémoire des saints martyrs Thyrse, Leucius, Callinique, Philémon, Apollonius et Arrhianos"/>
+        <chapter file="16" name="15 décembre Mémoire du saint hiéromartyr Éleuthère"/>
+        <chapter file="17" name="16 décembre Mémoire du saint prophète Aggée"/>
+        <chapter file="18" name="17 décembre Mémoire du saint prophète Daniel, et des trois Jeunes Gens"/>
+        <chapter file="19" name="Entre le 18 et le 24 Décembre. Dimanche avant Noël."/>
+        <chapter file="20" name="18 décembre Mémoire du saint martyr Sébastien et de ses compagnons"/>
+        <chapter file="21" name="19 décembre Mémoire du saint martyr Boniface"/>
+        <chapter file="22" name="20 décembre Avant-fête de la Naissance selon la chair de notre Seigneur, Dieu et Sauveur Jésus Christ ; et mémoire du saint"/>
+        <chapter file="23" name="21 décembre Mémoire de la sainte martyre Julienne de Nicomédie"/>
+        <chapter file="24" name="22 décembre Mémoire de la sainte mégalomartyre Anastasie"/>
+        <chapter file="25" name="23 décembre Mémoire des dix saints Martyrs de Crète"/>
+        <chapter file="26" name="24 décembre Mémoire de la sainte et vénérable martyre Eugénie"/>
+        <chapter file="27" name="Office des Grandes Heures"/>
+        <chapter file="28" name="25 décembre Naissance selon la chair de notre Seigneur,"/>
+        <chapter file="29" name="26 décembre Synaxe de la Mère de Dieu"/>
+        <chapter file="30" name="Dimanche apres Noël. Mémoire du saint et juste Joseph, l'époux de la Vierge, du saint roi David et de saint Jacques, le frère du Seigneur"/>
+        <chapter file="31" name="27 décembre. Mémoire du saint protomartyr et archidiacre Étienne ; et de notre vénérable Père et confesseur Théodore le Marqué,"/>
+        <chapter file="32" name="28 décembre. Mémoire des vingt mille Saints brûlés à Nicomédie"/>
+        <chapter file="33" name="29 décembre Mémoire des saints Enfants innocents massacrés par Hérode au nombre de quatorze mille ; et de notre vénérable Père Marcel, higoumène du monastère des Acémètes"/>
+        <chapter file="34" name="30 décembre Mémoire de la sainte martyre Anysie"/>
+        <chapter file="35" name="31 décembre Mémoire de notre vénérable Mère Mélanie la Romaine"/>
+        <chapter file="36" name="THEOTOKIÀ DOMINICAUX DES HUIT TONS"/>
+        <chapter file="37" name="THEOTOKIÀ APOLYTIKIÀ DES DIMANCHES"/>
+        <chapter file="38" name="THEOTOKIÀ APOLYTIKIÀ à chanter toute l'année après les tropaires des Saints."/>
+    </manifest>
+</bookdata>
